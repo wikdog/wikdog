@@ -35,7 +35,7 @@ Here are some technologies I enjoy working with:
 
 ### 📊 GitHub Stats  
 #### **Overview**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wikdog)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **Languages**
 ![](https://raw.githubusercontent.com/wikdog/githubstats/master/generated/languages.svg#gh-dark-mode-only)  
