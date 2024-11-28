@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/wikdog/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wikdog/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wikdog/githubstats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wikdog/githubstats/master/generated/overview.svg#gh-light-mode-only)
 
 
-![](https://raw.githubusercontent.com/wikdog/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wikdog/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wikdog/githubstats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wikdog/githubstats/master/generated/languages.svg#gh-light-mode-only)
